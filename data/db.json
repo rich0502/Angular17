@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "sdsd",
+      "price": "sdsd",
+      "checked": true,
+      "id": 9
+    },
+    {
+      "name": "Clavier",
+      "price": "20",
+      "checked": true,
+      "id": 10
+    },
+    {
+      "name": "Ecran de bureau",
+      "price": "120",
+      "checked": false,
+      "id": 11
+    },
+    {
+      "name": "Souris",
+      "price": "120",
+      "checked": true,
+      "id": 12
+    }
+  ]
+}
